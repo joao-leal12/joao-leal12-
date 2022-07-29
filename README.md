@@ -59,6 +59,5 @@
 </div>
 
 
-  
-  ![snake gif](https://github.com/joao-leal12/joao-leal12/blob/output/github-contribution-grid-snake.svg)
+
   
