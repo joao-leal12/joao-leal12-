@@ -58,7 +58,7 @@
   <a href="mailto:joaovictorleal080415@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-<div align="center">
+
   
   ![snake gif](https://github.com/joao-leal12/joao-leal12/blob/output/github-contribution-grid-snake.svg)
   
