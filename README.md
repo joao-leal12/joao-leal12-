@@ -7,7 +7,7 @@
     <!---->
      <p>
         🖥️ Atualmente estou a procura de uma oportunidade para exercer o que venho <b>Estudando e desenvolvendo<b> <br> <br> 
-        😉 Tenho 22 anos, sou Desenvolvedor Front-end sempre buscando aprender mais<br><br>
+        😉 Tenho 25 anos, sou Desenvolvedor FullStack sempre buscando aprender mais<br><br>
         🔭 Busco sempre aprender mais e melhorar minhas Skills, com foco, determinação e satisfação pelo que faço<br><br>
         🤔 Interessado em tudo relacionado à tecnologia</b><br><br>
         ❤️ <b>Apaixonado por programação!</b><br>
